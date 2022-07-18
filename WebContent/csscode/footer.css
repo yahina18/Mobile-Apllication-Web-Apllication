@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+.footer
+{
+	width:100vm;
+	height: 3rem;
+	background-color: #0a183d;
+	margin-top:400px;
+	
+}
+.footer p
+{
+	color:#fff;
+	font-size: 1rem;
+	text-align: center;
+	text-transform: capitalize;
+	line-height: 3.50rem;
+}
+p
+{
+	margin:0;
+	padding:0;
+	
+}
+body
+{
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+html
+{
+	height: 100%;
+}

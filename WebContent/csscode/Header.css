@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.header
+{
+	height:200px;
+	position:relative;
+}
+.Logo
+{
+	margin-top:20px;
+}
+html
+{
+	height: 100%;
+}

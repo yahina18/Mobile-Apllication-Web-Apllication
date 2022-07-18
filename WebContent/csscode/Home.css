@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+.content
+{
+  height:500px;
+  padding-right:50px;
+  padding-left:140px;
+  padding-bottom:20px;
+  padding-top:20px;
+  display:flex;
+  flex-wrap:wrap;
+  
+}
+.i1,.i2,.i3,.i4,.i5,.i6
+{
+  width:300px;
+  height:410px;
+  border:1px solid #f1f1f1;
+  padding:14px 20px;
+  margin-right:20px;
+  margin-bottom:20px;
+}
+.img1
+{
+ width:300px;
+ height:300px;
+}

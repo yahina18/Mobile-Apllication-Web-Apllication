@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+.modal
+{
+  
+   position:fixed;
+   left:33%;
+   right:33%;
+   top:10%;
+  border:1px solid #888;
+  padding:10px;
+  
+}
+input[type=text],input[type=password]
+{
+ box-sizing:border-box;
+width:100%;
+padding:10px 12px;
+margin-top:8px;
+margin-bottom:8px;
+}
+button
+{
+    color:white;
+   background-color:blue;
+   width:100%;
+  border:none;
+padding:14px 20px;
+ margin:8px 0px;
+}
+.cancelbtn
+{
+    box-sizing: border-box; 
+    padding: 12px 14px;
+    color: white;
+    margin-top: 20px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+}
+.container2
+{
+    padding: 40;
+    background-color: #f1f1f1;
+    margin-top: 1px;
+    backgroundcolor: "red";
+    background-color: red;
+    padding-top: 20;
+    padding: 20;
+    padding: 10px;
+}
